@@ -17,4 +17,4 @@ function PokemonCard({pokemon}) {
    }).isRequired
   }
   export default PokemonCard;
-  
+
